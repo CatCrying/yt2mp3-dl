@@ -1,0 +1,18 @@
+{
+  "name": "YT2MP3 — YouTube to MP3 Converter",
+  "short_name": "YT2MP3",
+  "description": "Free, fast, and ad-free YouTube to MP3 converter.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080810",
+  "theme_color": "#080810",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
